@@ -25,9 +25,9 @@ Y quizás aún lo hacen.
 
 
 =======
-es broma lol se acostaron juntos i tuvieron 7 hijos
+//es broma lol se acostaron juntos i tuvieron 7 hijos
 
-FIN
+//FIN
 
 ---
 Final Oscar
@@ -60,6 +60,8 @@ Pero cada vez que llovía, preparaba dos cafés.
 Y dejaba uno frente a esa silla, por si acaso.
 
 Por si algún día regresaba.
+pero si regreso i tuvieron +7 hijos
+FIN
 
 ---
 
